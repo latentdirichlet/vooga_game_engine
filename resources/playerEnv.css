@@ -1,0 +1,31 @@
+.menuButton {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+    -fx-font-family: "Courier Std", Courier, monospace;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+}
+
+.menuButton:hover {
+    -fx-background-color: lightgray;
+}
+
+.combatMenuButton {
+    -fx-background-color: white;
+    -fx-border-color: black;
+    -fx-font-family: "Courier Std", Courier, monospace;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+}
+
+.combatMenuButton:hover {
+    -fx-background-color: lightgray;
+}
+
+.label {
+    -fx-font-family: "Courier Std", Courier, monospace;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+}
+
+.camera > .viewport  { -fx-background-color: black; }
