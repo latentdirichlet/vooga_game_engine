@@ -1,3 +1,1 @@
-# voogasalad
-
-MainGame Authoring and Player Project
+Vooga Game Engine
